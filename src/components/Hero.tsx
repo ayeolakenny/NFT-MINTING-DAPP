@@ -119,7 +119,7 @@ export const Hero = () => {
           </a>
         </ul>
         <div className="shadow-xl shadow-black flex justify-center items-center w-10 h-10 rounded-full bg-white cursor-pointer p-3 ml-4 text-black hover:bg-[#bd255f] hover:text-white transition-all duration-75 delay-100">
-          <span className="text-sm font-bold">{nfts.length}/99</span>
+          <span className="text-sm font-bold">{nfts.length}/22</span>
         </div>
       </div>
     </div>

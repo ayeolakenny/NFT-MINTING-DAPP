@@ -1,0 +1,6 @@
+issue with metadata and image ipfs uri
+1. Deploy image to ipfs and pin to pinata
+2. Copy image url and use it to process metadata
+3. Add new constructor varible named imageBaseURI and use it to form the image
+4. On deployment add the baseURI(metadata) and imageBaseURI(images);
+5. Use the imageBaseURI to form the image
